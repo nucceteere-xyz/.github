@@ -1,7 +1,10 @@
-# nucceteere.xyz
+> [!NOTE]
+> This project is a work in progress and isn't accepting requests for a small time.
 ## what is this?
-**this is a project by me for providing people a free subdomain**
-*To report abuse please email abuse@nucceteere.xyz*
+**This projects purpose is to provide a free subdomain service that everyone can use.**
+
+> [!CAUTION]
+> *To report abuse please email abuse@nucceteere.xyz*
 
 
 <!--
