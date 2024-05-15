@@ -1,10 +1,16 @@
 > [!NOTE]
 > This project is a work in progress and isn't accepting requests for a small time.
-## what is this?
-**This projects purpose is to provide a free subdomain service that everyone can use.**
 
 > [!CAUTION]
 > *To report abuse please email abuse@nucceteere.xyz*
+
+This projects purpose is to provide a free subdomain service that everyone can use.
+
+### To-Do
+[ ] Make a template for submissions
+[ ] Allow submissions
+[ ] Automate (After June 10th)
+
 
 
 <!--
