@@ -7,9 +7,9 @@
 This projects purpose is to provide a free subdomain service that everyone can use.
 
 ### To-Do
-[x] Make a template for submissions
-[] Allow submissions
-[] Automate (After June 10th)
+- [ ] Make a template for submissions
+- [ ] Allow submissions
+- [ ] Automate (After June 10th)
 
 
 
