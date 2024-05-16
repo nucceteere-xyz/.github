@@ -6,10 +6,9 @@
 
 This projects purpose is to provide a free subdomain service that everyone can use.
 
-### To-Do
-- [ ] Make a template for submissions
-- [ ] Allow submissions
-- [ ] Automate (After June 10th)
+Click [here](https://github.com/orgs/nucceteere-xyz/projects/2) to see our roadmap.
+
+
 
 
 
