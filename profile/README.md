@@ -1,6 +1,3 @@
-> [!NOTE]
-> This project is a work in progress and isn't accepting requests for a small time.
-
 > [!CAUTION]
 > *To report abuse, please email abuse@nucceteere.xyz*\
 > *To send a copyright claim, please email legal@nucceteere.xyz*\
